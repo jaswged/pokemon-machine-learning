@@ -6,3 +6,5 @@
 
 
 ## Modelling
+
+- Do the map of different models to test out several at once
