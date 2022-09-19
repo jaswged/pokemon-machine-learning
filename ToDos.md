@@ -8,12 +8,14 @@ Reread in csv and set index right away.
 - Remove Name. Cardinality too high
 - Convert types to categories and 1-hot encode
 
+
 ## Thoughts
 
 Or Rather things to try
 
 - Remove vs keep `Legendary`. Other stats might already show who's legendary.
 - Remove `Generation` number? Shouldn't matter unless got stronger over time overall
+- Remove type2 initially. No way to impute it?
 
 
 ## Modelling
