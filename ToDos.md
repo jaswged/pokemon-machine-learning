@@ -19,6 +19,7 @@ Or Rather things to try
 - Remove vs keep `Legendary`. Other stats might already show who's legendary.
 - Remove `Generation` number? Shouldn't matter unless got stronger over time overall
 - Remove type2 initially. No way to impute it? One hot encode?
+- Try FastAi and see if it beats Gradient Boosting
 
 ## Modelling
 
