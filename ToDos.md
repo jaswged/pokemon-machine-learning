@@ -21,6 +21,11 @@ Or Rather things to try
 - Remove type2 initially. No way to impute it? One hot encode?
 - Try FastAi and see if it beats Gradient Boosting
 
+- Add Ridge and Lasso classifiers
+- Investigate VotingClassifier
+- Add Shap investigation
+- VsCode Notebook Visualization
+
 ## Modelling
 
 - Do the map of different models to test out several at once
